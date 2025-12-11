@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center">
-<img src="images/ossu-logo.webp" alt=""/>
+
 <h3>Hocbigg - Anthropology</h3>
 <p>
   🎓 Path to a free self-taught education in Anthropology!
@@ -9,7 +9,9 @@
 # Contents
 
 - [Summary](#summary)
+- [Communities](#communities)
 - [Curriculum](#curriculum)
+- [Code of conduct](#code-of-conduct)
 
 # Summary
 
@@ -45,7 +47,44 @@ Specialization tracks allow deeper focus in one subfield while maintaining inter
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
 
+**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+
+- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
+- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
+
+**[How to contribute](CONTRIBUTING.md)**
+
+# Communities
+
+- Forums:
+  - [Anthrogenica](https://anthrogenica.com/)
+  - [PaleoPlanet Anthropology Forum](https://www.tapatalk.com/groups/paleoplanet69529/anthropology-t132/)
+  - [GenArchivist Anthropology](https://genarchivist.net/forumdisplay.php?fid=108)
+  - [The Apricity Anthropology](https://www.theapricity.com/forum/forumdisplay.php?88-Anthropology)
+- Subreddits:
+  - [r/Anthropology](https://www.reddit.com/r/Anthropology/)
+  - [r/AskAnthropology](https://www.reddit.com/r/AskAnthropology/)
+  - [r/CulturalAnthro](https://www.reddit.com/r/CulturalAnthro/)
+  - [r/Archaeology](https://www.reddit.com/r/Archaeology/)
+- Discord servers:
+  - [r/Anthropology](https://discord.com/invite/GDr2cgX)
+  - [Alivia's Anthropology Club](https://discord.gg/Gys286zwPp)
+- Other:
+  - [Savage Minds](https://savageminds.org/) (anthropology blog and forum)
+  - [Fediverse Group: Anthropology](https://fediverse.observer/g/4gqVqZ2Q2F/anthropology) (Mastodon group)
+- You can also interact through [GitHub issues](https://github.com/hocbigg/anthropology/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+
 # Curriculum
+
+- [Introductory](#introductory)
+- [Core](#core)
+- [Advanced](#advanced)
+    - [Cultural Anthropology](#cultural-anthropology)
+    - [Biological Anthropology](#biological-anthropology)
+    - [Archaeology](#archaeology)
+    - [Linguistic Anthropology](#linguistic-anthropology)
+- [Capstone](#capstone)
 
 ## Introductory
 
@@ -111,3 +150,7 @@ This culminating phase synthesizes knowledge through an independent project, dem
 | Subject | Why study? | Book | Videos |
 | --- | --- | --- | --- |
 | **[Capstone Project in Anthropology](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/)** | Integrates knowledge into practical demonstration. | *Doing Anthropological Research: A Practical Guide* by Natalie Konopinski | MIT OpenCourseWare: Environmental Conflict (project-based example) |
+
+# Code of conduct
+
+[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct). 
