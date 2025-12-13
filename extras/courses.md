@@ -4,9 +4,6 @@ This is a list of high-quality courses that, for one reason or another, didn't m
 The most common reasons are that the course isn't available often enough,
 or that there was an alternative that fit better into the curriculum.
 
-# Anthropology – Great Courses
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
-
 ## General Anthropology
 
 Courses | Duration | Effort
@@ -39,7 +36,7 @@ Courses | Duration | Effort
 :-- | :--: | :--:
 [Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history) | 6 weeks | 3 hours/week
 
-# Online Learning - Great Courses
+## Online Learning - Great Courses
 
 Courses | Duration | Effort
 :-- | :--: | :--:

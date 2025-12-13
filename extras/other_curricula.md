@@ -1,6 +1,6 @@
 # Other curricula
 
-This curriculum is one of a few efforts to inform learners how they can pursue [Field] independently. Below are a few other such efforts.
+This curriculum is one of a few efforts to inform learners how they can pursue Anthropology independently. Below are a few other such efforts.
 
 - [Saylor Academy Anthropology Major](https://www.saylor.org/major/anthropology/)
 - [OER Commons Anthropology Hub](https://oercommons.org/hubs/anthropology)
