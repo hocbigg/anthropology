@@ -64,11 +64,11 @@ Study all 8 subjects below, in roughly the presented order, using either the sug
 | Linguistic Anthropology | Examines language as a social practice, revealing how communication, power, and identity are intertwined. | [_Language, Culture, and Society_](https://archive.org/details/languagecultures0000salz_a9b5) | [Coursera: Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) |
 | Biological Anthropology | Situates human cultural life within biological evolution and variation without reducing culture to biology. | [_Essentials of Biological Anthropology_](https://archive.org/details/essentialsofphys0000lars) | [Biological Anthropology - Alivia Brown](https://www.youtube.com/playlist?list=PLDtERbGOCsM9TL4FyQLhNg2eA8PQtYjSq) |
 | Archaeological Anthropology | Introduces material evidence as a source for understanding past human societies and long-term social change. | [_Archaeology: Theories, Methods, and Practice_](https://www.amazon.com/Archaeology-Theories-Practice-Colin-Renfrew/dp/0500849986) | [FutureLearn: Archaeology: from Dig to Lab and Beyond](https://www.futurelearn.com/courses/archaeology) |
-| Comparative Anthropology | Trains comparative reasoning, allowing learners to relate cases across time and space without collapsing differences. | | |
+| Comparative Anthropology | Trains comparative reasoning, allowing learners to relate cases across time and space without collapsing differences. | | [Comparative Anthropology](coursepages/comparative-anthropology.md) |
 
 ## Still too much?
 
-Three subjects form the conceptual core of this program: Introduction to Anthropology, Anthropological Theory, and Social and Cultural Anthropology. Together, they establish what anthropology studies, how it explains social life, and how its interpretations differ from everyday reasoning. Mastery of these areas enables learners to read ethnographies critically, recognize theoretical arguments, and situate specialized topics within a coherent intellectual framework. Once this core is secure, the remaining subjects can be approached as extensions rather than obstacles, allowing independent and sustained learning within the discipline.
+Three subjects form the conceptual core of this program: Introduction to Anthropology, Anthropological Theory, and Social and Cultural Anthropology. Together, they establish what anthropology studies, how it explains social life, and how its interpretations differ from everyday reasoning. Mastery of these areas enables learners to read ethnographies critically, recognize theoretical arguments, and situate specialized topics within a coherent intellectual framework.
 
 ## Why learn Anthropology?
 
