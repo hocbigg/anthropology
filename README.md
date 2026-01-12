@@ -48,6 +48,9 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 - [Savage Minds](https://savageminds.org/) (anthropology blog and forum)
 - [Fediverse Group: Anthropology](https://fediverse.observer/g/4gqVqZ2Q2F/anthropology) (Mastodon group)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/anthropology/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
