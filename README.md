@@ -1,11 +1,7 @@
-<div align="center" style="text-align: center">
-<img src="/images/logo.png" alt=""/>
-<h3>Hocbigg - Anthropology</h3>
-<p>
-Path to a free self-taught education in Anthropology!
-</p>
-
-</div>
+---
+title: Hocbigg - Anthropology
+description: Path to a free self-taught education in Anthropology!
+---
 
 # Contents
 
@@ -17,6 +13,20 @@ Path to a free self-taught education in Anthropology!
 # Summary
 
 The Anthropology curriculum is a complete education in Anthropology using online materials.
+
+## Organization
+
+This repository is organized into 2 main components:
+
+- **Core Curriculum** (this page): the foundational knowledge of the field;
+- **[Projects](projects.md)**: support learning through practical application throughout the curriculum.
+
+**Process:** Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.
+
+- For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.
+- The Core Curriculum provides a shared foundation and is intended to be completed in full.
+
+Practical work is integrated through the [Projects section](projects.md) and may be undertaken alongside coursework.
 
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md).
