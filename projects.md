@@ -1,76 +1,45 @@
 # Projects
 
-This page is a curated collection of well-written, step-by-step guides for learning Anthropology through hands-on, project-based practice.
+A curated directory of step-by-step guides, field manuals, and open templates for learning anthropology through hands-on practice. Build real artifacts—from fieldnotes and kinship charts to archaeological surveys and corpus datasets—to understand anthropological theories and methods from the ground up.
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+## Ethnographic Fieldwork & Qualitative Methods
 
-These projects are meant to support learning throughout the curriculum, not only at the end.  
-By building, writing, creating, or reconstructing real artifacts in the field, learners develop practical understanding alongside theoretical study.
+- [Writing an Ethnography: Step-by-Step Field-to-Manuscript Guide (Open SLCC)](https://slcc.pressbooks.pub/socialchange/chapter/writing-an-ethnography)
+- [Five Simple Steps for Helping Students Write Ethnographic Papers (UTP Teaching Culture)](https://www.utpteachingculture.com/five-simple-steps-for-helping-students-write-ethnographic-papers)
+- [Collecting Field Data and Taking Notes (CUNY Ethnography Made Easy)](https://ethnographymadeeasy.commons.gc.cuny.edu/collecting-data-and-taking-notes)
+- [How to Write Field Notes: Descriptive, Jottings, and Analytical Notes (Raul Pacheco-Vega)](https://www.raulpacheco.org/2021/10/how-to-write-field-notes-and-how-to-teach-the-writing-of-fieldnotes/)
+- [Qualitative Coding and Thematic Analysis for Ethnographers (CUNY Ethnography Made Easy)](https://ethnographymadeeasy.commons.gc.cuny.edu/coding)
+- [Autoethnography as Method: Writing Self-Reflexive Cultural Accounts (CUNY Ethnography Made Easy)](https://ethnographymadeeasy.commons.gc.cuny.edu/autoethnography)
 
-## Tutorials
+## Kinship Mapping, Life History & Oral Narratives
 
-- [Write your own ethnography](#write-your-own-ethnography)
-- [Compose your own fieldnotes](#compose-your-own-fieldnotes)
-- [Construct your own kinship diagram](#construct-your-own-kinship-diagram)
-- [Record your own life history](#record-your-own-life-history)
-- [Collect your own oral history](#collect-your-own-oral-history)
-- [Material Culture Catalog](#material-culture-catalog)
-- [Produce your own ethnographic film](#produce-your-own-ethnographic-film)
-- [Write your own autoethnography](#write-your-own-autoethnography)
-- [Design your own applied anthropology project](#design-your-own-applied-anthropology-project)
-- [Build your own linguistic corpus](#build-your-own-linguistic-corpus)
-- [Write your own archaeological survey report](#write-your-own-archaeological-survey-report)
-- [Create your own biological profile](#create-your-own-biological-profile)
+- [Step-by-Step Guide to Oral History: Planning, Interviewing, and Archiving (DoHistory)](https://dohistory.org/on_your_own/toolkit/oralHistory.html)
+- [How to Do Oral History: Fieldwork Protocol and Question Sets (Smithsonian Institution Archives)](https://siarchives.si.edu/history/how-do-oral-history)
+- [Kinship Diagrams: Standard Anthropological Symbols, Ego-Centered Mapping, and Notation Guide (Creately)](https://creately.com/guides/kinship-diagram-guide/)
+- [How to Make an Anthropological Kinship Diagram (Lucidchart)](https://www.lucidchart.com/blog/make-a-kinship-diagram-online)
+- [Conducting Life History Interviews: A Practical Field Guide (weADAPT)](https://weadapt.org/wp-content/uploads/2023/05/how-to_guide_conducting_life_history_interviews.pdf)
 
-### Write your own ethnography
+## Archaeological Survey, Material Culture & Spatial Analysis
 
-* [Five Simple Steps for Helping Students Write Ethnographic Papers](https://www.utpteachingculture.com/five-simple-steps-for-helping-students-write-ethnographic-papers) (*Guide*)  
-* [Writing an Ethnography](https://slcc.pressbooks.pub/socialchange/chapter/writing-an-ethnography) (*Step-by-step guide*)
+- [Archaeological Field Recording and Material Culture Analysis Activities (Digging into Archaeology OER)](https://open.umn.edu/opentextbooks/textbooks/822)
+- [Archaeological Project Recording and Fieldwork Guidance (Council for British Archaeology)](https://www.archaeologyuk.org/)
+- [Geocoding and Spatial Mapping of Artifact and Site Data in QGIS (The Programming Historian)](https://programminghistorian.org/en/lessons/geocoding-qgis)
+- [Calibrating Radiocarbon Dates and Chronological Modeling in R (The Programming Historian)](https://programminghistorian.org/en/lessons/radiocarbon-dates-calibration-r)
 
-### Compose your own fieldnotes
+## Linguistic Anthropology & Corpus Discourse Analysis
 
-* [Collecting Data and Taking Notes](https://ethnographymadeeasy.commons.gc.cuny.edu/collecting-data-and-taking-notes) (*Tutorial*)  
-* [How to write field notes (and how to teach the writing of fieldnotes)](https://www.raulpacheco.org/2021/10/how-to-write-field-notes-and-how-to-teach-the-writing-of-fieldnotes) (*Practical guide*)
+- [Building a DIY Text Corpus: Collection, Formatting, and Analysis (Lancaster University)](https://www.lancaster.ac.uk/fss/courses/ling/corpus/blue/l04_2.htm)
+- [Keyword Analysis and Frequency Profiling in Cultural Texts (Lancaster University)](https://www.lancaster.ac.uk/fss/courses/ling/corpus/blue/l04_3.htm)
+- [Corpus Linguistics Course and Practical Analytical Walkthroughs (Lancaster University)](https://www.lancaster.ac.uk/fss/courses/ling/corpus/)
 
-### Construct your own kinship diagram
+## Biological Anthropology & Osteological Profiling
 
-* [What is a Kinship Diagram? Comprehensive Guide with Templates](https://creately.com/guides/kinship-diagram-guide) (*Step-by-step tutorial*)  
-* [How to Make a Kinship Diagram](https://www.lucidchart.com/blog/make-a-kinship-diagram-online) (*Guide with template*)
+- [Forensic Anthropology & Bioarchaeology: Constructing a Biological Profile (Explorations OER)](https://explorations.americananthro.org/)
+- [Biological Profile Skeletal Analysis and Metric Estimation Protocols (Explorations / AABA)](https://explorations.americananthro.org/)
+- [Physical Anthropology and Osteology Archival Collections Guide (Smithsonian Institution)](https://siarchives.si.edu/)
 
-### Record your own life history
+## Applied Anthropology & Audio-Visual Ethnography
 
-* [Conducting life history interviews : a how-to guide](https://weadapt.org/wp-content/uploads/2023/05/how-to_guide_conducting_life_history_interviews.pdf) (*PDF guide*)
-
-### Collect your own oral history
-
-* [Step-by-Step Guide to Oral History](https://dohistory.org/on_your_own/toolkit/oralHistory.html) (*Toolkit*)  
-* [How Do Oral History anthropology Smithsonian Institution Archives](https://siarchives.si.edu/history/how-do-oral-history) (*Procedural guide*)
-
-### Material Culture Catalog
-
-* [Material Culture: How to Document and Analyze Objects](https://www.saa.org/about-the-society/publications/material-culture) (*Guide*) — outlines systematic description, classification, and cataloging workflows for objects
-
-### Produce your own ethnographic film
-
-* [Observational Cinema: Anthropology, Film, and the Exploration of Social Life](https://www.jstor.org/stable/j.ctt16gzn4) (*Book excerpt/chapter previews*) — models ethnographic filmmaking process through key practitioners' methods
-
-### Write your own autoethnography
-
-* [Autoethnography as Method](https://www.routledge.com/Autoethnography-as-Method/Chang/p/book/9781598740370) (*Book preview & sample chapters*) — explains structure, reflexive writing process, and evaluation criteria  
-* [How to Do Autoethnography](https://methods.sagepub.com/book/how-to-do-autoethnography) (*Methodological handbook preview*) — procedural steps for crafting personal-cultural narratives
-
-### Design your own applied anthropology project
-
-* [Designing and Managing Your Applied Anthropology Project](https://www.aaanet.org/resources/practice) (*Professional association guide*) — practical framework for project scoping, stakeholder engagement, and deliverables
-
-### Build your own linguistic corpus
-
-* [Building a Small Corpus: A Step-by-Step Guide](https://www.lancaster.ac.uk/fss/courses/ling/corpus/blue/l04_2.htm) (*Tutorial*) — basic workflow for corpus construction from text collection to annotation
-
-### Write your own archaeological survey report
-
-* [How to Write an Archaeological Report](https://www.archaeologyuk.org/resources/guides/report-writing.html) (*Professional guide*) — standard sections, data presentation, and interpretation structure
-
-### Create your own biological profile
-
-* [Forensic Anthropology Methods: Creating a Biological Profile](https://www.smithsonianfolklife.org/wp-content/uploads/Forensic-Anthropology-Biological-Profile.pdf) (*PDF worksheet/guide*) — step-by-step estimation of age, sex, ancestry, stature from skeletal remains
+- [Statement of Ethics and Professional Responsibilities for Applied Projects (Society for Applied Anthropology)](https://www.appliedanthro.org/about)
+- [Principles of Professional Responsibility and Ethical Fieldwork Design (American Anthropological Association)](https://www.americananthro.org/)
+- [Digital Storytelling and Audio-Visual Interview Recording Toolkit (Oral History in the Digital Age / MSU)](https://matrix.msu.edu/)

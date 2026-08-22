@@ -1,45 +1,24 @@
-# Extra Courses
+# Great Courses
 
-This is a list of high-quality courses that, for one reason or another, didn't make it into the curriculum.
-The most common reasons are that the course isn't available often enough,
-or that there was an alternative that fit better into the curriculum.
+A curated directory of standalone university lecture series, high-production open courses, and specialized MOOCs in anthropology. These offerings provide deep conceptual models, field-specific case studies, and advanced perspectives across the discipline's major traditions.
 
-## General Anthropology
+## Sociocultural Anthropology & Symbolic Systems
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Myth, Ritual, and Symbolism](https://ocw.mit.edu/courses/21a-212-myth-ritual-and-symbolism-spring-2004/) | - | -
-[Introduction to Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D) | 25 weeks | 2 hours/week
+- [Myth, Ritual, and Symbolism (MIT OpenCourseWare / Prof. Manduhai Buyandelger)](https://ocw.mit.edu/courses/21a-212-myth-ritual-and-symbolism-spring-2004/)
+- [Social Norms, Social Change I (Coursera / University of Pennsylvania & UNICEF / Prof. Cristina Bicchieri)](https://www.coursera.org/learn/norms)
+- [How Culture Works (MIT OpenCourseWare / Prof. Manduhai Buyandelger)](https://ocw.mit.edu/courses/21a-01-how-culture-works-fall-2012/)
 
-## Cultural Anthropology
+## Biological Anthropology & Evolutionary Behavior
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Indigenous Canada](https://www.coursera.org/learn/indigenous-canada) | 12 weeks | 3 hours/week
-[Social Norms, Social Change I](https://www.coursera.org/learn/norms) | 4 weeks | 4 hours/week
+- [Human Behavioral Biology (YouTube / Stanford University / Prof. Robert Sapolsky)](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
 
-## Biological Anthropology
+## Archaeology, Material Culture & Ancient Civilizations
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[The Bilingual Brain](https://www.edx.org/learn/linguistics/university-of-houston-the-bilingual-brain) | 8 weeks | 3-5 hours/week
+- [Pyramids of Giza: Ancient Egyptian Art and Archaeology (HarvardX / edX / Prof. Peter Der Manuelian)](https://www.edx.org/learn/archaeology/harvard-university-pyramids-of-giza-ancient-egyptian-art-and-archaeology)
+- [Roman Architecture: Urbanism and Cultural Power (Coursera / Yale University / Prof. Diana E. E. Kleiner)](https://www.coursera.org/learn/roman-architecture)
+- [Archaeoastronomy: The Science of Stars and Stones (Coursera / Politecnico di Milano / Prof. Giulio Magli)](https://www.coursera.org/learn/archaeoastronomy)
 
-## Archaeology
+## Indigenous Studies, Decolonization & Global Heritage
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Pyramids of Giza: Ancient Egyptian Art and Archaeology](https://www.edx.org/learn/archaeology/harvard-university-pyramids-of-giza-ancient-egyptian-art-and-archaeology) | 8 weeks | 2-4 hours/week
-
-## Linguistic Anthropology
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Big History: Connecting Knowledge](https://www.coursera.org/learn/big-history) | 6 weeks | 3 hours/week
-
-## Online Learning - Great Courses
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | 4 weeks | 2 hours/week
-[Mindshift](https://www.coursera.org/learn/mindshift) | 4 weeks | 2 hours/week
-[Powersearching with Google](https://www.edx.org/learn/google-power-searching/google-power-searching-with-google) | 3 weeks | 4-6 hours/week
+- [Indigenous Canada (Coursera / University of Alberta / Faculty of Native Studies)](https://www.coursera.org/learn/indigenous-canada)
+- [Aboriginal Worldviews and Education (Coursera / University of Toronto / Prof. Jean-Paul Restoule)](https://www.coursera.org/learn/aboriginal-education)
