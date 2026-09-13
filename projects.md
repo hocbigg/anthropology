@@ -1,45 +1,56 @@
-# Projects
+# Anthropology Project Directory
 
-A curated directory of step-by-step guides, field manuals, and open templates for learning anthropology through hands-on practice. Build real artifacts—from fieldnotes and kinship charts to archaeological surveys and corpus datasets—to understand anthropological theories and methods from the ground up.
+A curated directory of concrete project walkthroughs, step-by-step methodological guides, and open templates for self-directed anthropology learners. Select a tangible deliverable below to put anthropological theory into practice.
 
-## Ethnographic Fieldwork & Qualitative Methods
+## Write an Ethnographic Field Study
 
-- [Writing an Ethnography: Step-by-Step Field-to-Manuscript Guide (Open SLCC)](https://slcc.pressbooks.pub/socialchange/chapter/writing-an-ethnography)
-- [Five Simple Steps for Helping Students Write Ethnographic Papers (UTP Teaching Culture)](https://www.utpteachingculture.com/five-simple-steps-for-helping-students-write-ethnographic-papers)
-- [Collecting Field Data and Taking Notes (CUNY Ethnography Made Easy)](https://ethnographymadeeasy.commons.gc.cuny.edu/collecting-data-and-taking-notes)
-- [How to Write Field Notes: Descriptive, Jottings, and Analytical Notes (Raul Pacheco-Vega)](https://www.raulpacheco.org/2021/10/how-to-write-field-notes-and-how-to-teach-the-writing-of-fieldnotes/)
-- [Qualitative Coding and Thematic Analysis for Ethnographers (CUNY Ethnography Made Easy)](https://ethnographymadeeasy.commons.gc.cuny.edu/coding)
-- [Autoethnography as Method: Writing Self-Reflexive Cultural Accounts (CUNY Ethnography Made Easy)](https://ethnographymadeeasy.commons.gc.cuny.edu/autoethnography)
+- [Five Simple Steps for Helping Students Write Ethnographic Papers (Teaching Culture / University of Toronto Press)](https://www.utpteachingculture.com/five-simple-steps-for-helping-students-write-ethnographic-papers/)
+- [Writing an Ethnography (Open SLCC / John Gauthier)](https://slcc.pressbooks.pub/socialchange/chapter/writing-an-ethnography/)
 
-## Kinship Mapping, Life History & Oral Narratives
+## Compile Fieldnotes and Observational Logs
 
-- [Step-by-Step Guide to Oral History: Planning, Interviewing, and Archiving (DoHistory)](https://dohistory.org/on_your_own/toolkit/oralHistory.html)
-- [How to Do Oral History: Fieldwork Protocol and Question Sets (Smithsonian Institution Archives)](https://siarchives.si.edu/history/how-do-oral-history)
-- [Kinship Diagrams: Standard Anthropological Symbols, Ego-Centered Mapping, and Notation Guide (Creately)](https://creately.com/guides/kinship-diagram-guide/)
-- [How to Make an Anthropological Kinship Diagram (Lucidchart)](https://www.lucidchart.com/blog/make-a-kinship-diagram-online)
-- [Conducting Life History Interviews: A Practical Field Guide (weADAPT)](https://weadapt.org/wp-content/uploads/2023/05/how-to_guide_conducting_life_history_interviews.pdf)
+- [Collecting Data and Taking Notes (Ethnography Made Easy OER / Mary Gatta)](https://ethnographymadeeasy.commons.gc.cuny.edu/collecting-data-and-taking-notes/)
+- [How to Write Field Notes (Raul Pacheco-Vega)](https://www.raulpacheco.org/2021/10/how-to-write-field-notes-and-how-to-teach-the-writing-of-fieldnotes/)
 
-## Archaeological Survey, Material Culture & Spatial Analysis
+## Construct a Kinship Diagram
 
-- [Archaeological Field Recording and Material Culture Analysis Activities (Digging into Archaeology OER)](https://open.umn.edu/opentextbooks/textbooks/822)
-- [Archaeological Project Recording and Fieldwork Guidance (Council for British Archaeology)](https://www.archaeologyuk.org/)
-- [Geocoding and Spatial Mapping of Artifact and Site Data in QGIS (The Programming Historian)](https://programminghistorian.org/en/lessons/geocoding-qgis)
-- [Calibrating Radiocarbon Dates and Chronological Modeling in R (The Programming Historian)](https://programminghistorian.org/en/lessons/radiocarbon-dates-calibration-r)
+- [How to Make a Kinship Diagram (Lucidchart)](https://www.lucidchart.com/blog/how-to-make-a-kinship-diagram)
+- [What Is a Kinship Diagram? Meaning, Symbols, Uses, and Templates (Creately)](https://creately.com/guides/kinship-diagram-guide/)
 
-## Linguistic Anthropology & Corpus Discourse Analysis
+## Conduct an Oral History or Life History Project
 
-- [Building a DIY Text Corpus: Collection, Formatting, and Analysis (Lancaster University)](https://www.lancaster.ac.uk/fss/courses/ling/corpus/blue/l04_2.htm)
-- [Keyword Analysis and Frequency Profiling in Cultural Texts (Lancaster University)](https://www.lancaster.ac.uk/fss/courses/ling/corpus/blue/l04_3.htm)
-- [Corpus Linguistics Course and Practical Analytical Walkthroughs (Lancaster University)](https://www.lancaster.ac.uk/fss/courses/ling/corpus/)
+- [Step-by-Step Guide to Oral History (DoHistory / Judith Moyer)](https://dohistory.org/on_your_own/toolkit/oralHistory.html)
+- [How to Do Oral History (Smithsonian Institution Archives)](https://siarchives.si.edu/history/how-do-oral-history)
+- [Conducting Life History Interviews: A How-To Guide (weADAPT)](https://weadapt.org/wp-content/uploads/2023/05/how-to_guide_conducting_life_history_interviews.pdf)
 
-## Biological Anthropology & Osteological Profiling
+## Curate and Catalog a Material Culture Collection
 
-- [Forensic Anthropology & Bioarchaeology: Constructing a Biological Profile (Explorations OER)](https://explorations.americananthro.org/)
-- [Biological Profile Skeletal Analysis and Metric Estimation Protocols (Explorations / AABA)](https://explorations.americananthro.org/)
-- [Physical Anthropology and Osteology Archival Collections Guide (Smithsonian Institution)](https://siarchives.si.edu/)
+- [Analyze an Artifact (National Archives and Records Administration)](https://www.archives.gov/education/lessons/worksheets/artifact.html)
+- Guides to Object Study (Stanford University Archaeology Collections) - search "Guides to Object Study" on Stanford University Archaeology Collections
 
-## Applied Anthropology & Audio-Visual Ethnography
+## Produce a Sensory or Visual Ethnography
 
-- [Statement of Ethics and Professional Responsibilities for Applied Projects (Society for Applied Anthropology)](https://www.appliedanthro.org/about)
-- [Principles of Professional Responsibility and Ethical Fieldwork Design (American Anthropological Association)](https://www.americananthro.org/)
-- [Digital Storytelling and Audio-Visual Interview Recording Toolkit (Oral History in the Digital Age / MSU)](https://matrix.msu.edu/)
+- [Sensory Ethnography (Ethnography Made Easy OER / Tom Martin)](https://ethnographymadeeasy.commons.gc.cuny.edu/sensory-ethnography/)
+- Doing Visual Ethnography (Sarah Pink / SAGE Publishing) - search "Doing Visual Ethnography Sarah Pink" on Google Books (comprehensive paid reference)
+
+## Write an Autoethnography
+
+- [Autoethnography (Ethnography Made Easy OER / Alia R. Tyner-Mullings)](https://ethnographymadeeasy.commons.gc.cuny.edu/autoethnography/)
+- Autoethnography as Method (Heewon Chang / Routledge) - search "Autoethnography as Method Heewon Chang" on Google Books (comprehensive paid reference)
+
+## Design an Applied Anthropology Project
+
+- The Toolkit of a Good Professional Anthropologist (National Association for the Practice of Anthropology) - search "The Toolkit of a Good Professional Anthropologist" on practicinganthropology.org
+
+## Build a Linguistic Corpus & Discourse Analysis
+
+- [Corpus Analysis with AntConc (Programming Historian / Heather Froehlich)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
+
+## Write an Archaeological Survey & Post-Excavation Report
+
+- [Report Writing and Publication (BAJR - British Archaeological Jobs and Resources)](https://www.bajr.org/report-writing-and-publication/)
+
+## Construct a Biological Profile from Skeletal Remains
+
+- [The eSkeletons Project (University of Texas at Austin)](https://www.eskeletons.org)
+- Data Collection Procedures for Forensic Skeletal Material 2.0 (Forensic Anthropology Center / University of Tennessee) - search "Data Collection Procedures for Forensic Skeletal Material 2.0" on Google

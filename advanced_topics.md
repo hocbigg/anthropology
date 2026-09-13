@@ -1,51 +1,71 @@
-# Advanced Topics
+# Advanced Topics in Anthropology
 
-This page outlines advanced specialization tracks for learners who have completed the core undergraduate curriculum in anthropology. These tracks branch into specialized research domains, graduate-level theoretical frameworks, and advanced scientific methodologies.
+This curriculum provides advanced specialization pathways for self-directed learners who have completed the core undergraduate sequence. Rather than attempting to complete all tracks, learners should select one or two pathways aligned with their research goals or professional interests.
 
 ## Specialization Tracks
 
-- **Medical Anthropology & Global Health:** Investigates the political economy of disease, structural violence, phenomenological experiences of suffering, and biomedicine as a cultural system.
-- **Political, Economic & Legal Anthropology:** Analyzes statecraft, sovereign power, financial systems, debt economies, and legal pluralism across globalized contexts.
-- **Environmental, Ecological & Multispecies Anthropology:** Explores human-environment interactions, political ecology, the Anthropocene, and relations between humans and non-human entities.
-- **Digital Anthropology & Computational Methods:** Examines digital sociality, algorithmic systems, virtual field sites, and computational text/network analysis.
-- **Advanced Archaeological Science & Bioarchaeology:** Focuses on biomolecular archaeology, paleogenomics, stable isotope analysis, and spatial landscape modeling.
+* [Medical Anthropology & Global Health](#medical-anthropology--global-health): Investigates the political economy of disease, structural violence, phenomenological experiences of suffering, and biomedicine as a cultural system.
+* [Political, Economic & Legal Anthropology](#political-economic--legal-anthropology): Analyzes statecraft, bureaucratic legibility, financialization, and legal pluralism across everyday social contexts.
+* [Environmental, Ecological & Multispecies Anthropology](#environmental-ecological--multispecies-anthropology): Explores human-environment interactions, political ecology, more-than-human sociality, and Indigenous cosmologies.
+* [Digital Anthropology & Computational Methods](#digital-anthropology--computational-methods): Examines online sociality, virtual worlds, platform labor, and digital ethnographic methodologies.
+* [Advanced Archaeological Science & Bioarchaeology](#advanced-archaeological-science--bioarchaeology): Focuses on biomolecular archaeology, paleogenomics, stable isotope ecology, and spatial landscape modeling.
 
 ## Medical Anthropology & Global Health
 
-| Topic | Why Study | Resources |
-| :--- | :--- | :--- |
-| **Critical Medical Anthropology & Structural Violence** | Examines how political economies, institutional racism, and systemic inequalities directly produce disease patterns, uneven suffering, and disparate healthcare access. | _Pathologies of Power: Health, Human Rights, and the New War on the Poor_ (Paul Farmer)<br>- _Critical Medical Anthropology_ (Merrill Singer & Hans Baer)<br>- _In Search of Respect: Selling Crack in El Barrio_ (Philippe Bourgois) |
-| **Illness Narratives & Phenomenological Anthropology** | Investigates the subjective, lived experience of chronic illness, pain, and disability, contrasting local explanatory models with clinical diagnostic categories. | _The Illness Narratives: Suffering, Healing, and the Human Condition_ (Arthur Kleinman)<br>- _Social Suffering_ (Arthur Kleinman, Veena Das, & Margaret Lock, eds.)<br>- _Bodies in Formation: An Ethnography of Anatomy and Surgery Education_ (Rachel Prentice) |
-| **Biomedicine, Biopolitics & Global Health Regimes** | Analyzes modern biomedicine, pharmaceutical clinical trials, and global health policies as cultural institutions embedded with power, governmentality, and capital. | _Life Exposed: Biological Citizens after Chernobyl_ (Adriana Petryna)<br>- _When Experiments Travel: Clinical Trials and the Global Search for Human Subjects_ (Adriana Petryna)<br>- _Biomedicine as Culture: Instrumental Practices, Technoscientific Knowledge, and New Modes of Life_ (Regula Valerie Burri & Joseph Dumit, eds.) |
+Examines how health, sickness, and clinical practice are shaped by political systems, global inequities, phenomenological experiences, and cultural understandings of the body.
+
+Critical Medical Anthropology & Structural Violence: [Pathologies of Power: Health, Human Rights, and the New War on the Poor (Paul Farmer)](https://books.google.com/books?isbn=9780520243262) - A landmark text demonstrating how global political economies and institutional violence directly generate disease distribution and human suffering.
+
+Illness Narratives & Phenomenological Anthropology: [The Illness Narratives: Suffering, Healing, and the Human Condition (Arthur Kleinman)](https://books.google.com/books?isbn=9781541647121) - A foundational study establishing the distinction between biological disease and the lived, cultural experience of chronic illness and social suffering.
+
+Biomedicine as a Cultural System: [Disease and Health: Culture, Society, and Ethics (MIT OpenCourseWare / Jean Jackson)](https://ocw.mit.edu/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/) - A structured open curriculum that treats modern Western biomedicine as a cultural institution with its own moral premises, ritual structures, and institutional hierarchies.
+
+Biopolitics, Clinical Regimes & Global Health: [Global Health: An Interdisciplinary Overview (Coursera / University of Geneva)](https://www.coursera.org/learn/global-health-overview) - An advanced interdisciplinary course exploring global health governance, the political economy of epidemics, and international pharmaceutical regulation.
 
 ## Political, Economic & Legal Anthropology
 
-| Topic | Why Study | Resources |
-| :--- | :--- | :--- |
-| **Anthropology of the State & Bureaucracy** | Explores how sovereign power, bureaucratic documentation, national borders, and citizenship are experienced, negotiated, and produced in everyday life. | _The Anthropology of the State: A Reader_ (Aradhana Sharma & Akhil Gupta, eds.)<br>- _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_ (James C. Scott)<br>- _States of Exception_ / _Bare Life_ framework in _Homo Sacer: Sovereign Power and Bare Life_ (Giorgio Agamben) |
-| **Financialization, Debt & Neoliberal Capitalism** | Investigates the cultural dynamics of global financial markets, consumer debt, derivatives trading, and the social restructuring wrought by market deregulation. | _Debt: The First 5,000 Years_ (David Graeber)<br>- _Liquidated: An Ethnography of Wall Street_ (Karen Ho)<br>- _Money, Morality, and Markets_ / _The Social Life of Money_ (Nigel Dodd) |
-| **Legal Anthropology & Human Rights Vernacularization** | Analyzes legal pluralism, dispute resolution mechanisms, customary justice, and the cultural translation of universal human rights conventions into local legal contexts. | _Human Rights and Gender Violence: Translating International Law into Local Justice_ (Sally Engle Merry)<br>- _Order and Dispute: An Introduction to Legal Anthropology_ (Simon Roberts)<br>- _The Cultural Defense_ (Alison Dundes Renteln) |
+Investigates statecraft, bureaucratic power, capitalist financial structures, and legal pluralism to understand how governance and authority operate in everyday life.
+
+Anthropology of the State & Legibility: [Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed (James C. Scott)](https://books.google.com/books?isbn=9780300078152) - A seminal treatise analyzing how modern states enforce administrative legibility through simplification and standardization, frequently overriding vital local knowledge.
+
+Power, Rhetoric & Everyday Governance: [The Anthropology of Politics: Persuasion and Power (MIT OpenCourseWare / Xenia Cherkaev)](https://ocw.mit.edu/courses/21a-506-the-anthropology-of-politics-persuasion-and-power-spring-2019/) - An advanced syllabus examining political discourse, sovereignty, bureaucratic rituals, and grassroots resistance through ethnographic case studies.
+
+Financialization & Wall Street Culture: [Liquidated: An Ethnography of Wall Street (Karen Ho)](https://books.google.com/books?isbn=9780822345992) - An insider ethnography of elite investment banks showing how corporate downsizing and shareholder value ideology cultivate systemic financial precariousness.
+
+Legal Anthropology & Dispute Processing: [Law and Society (MIT OpenCourseWare / Susan S. Silbey)](https://ocw.mit.edu/courses/21a-219-law-and-society-spring-2003/) - An open university course investigating legal consciousness, the social production of legality, and how formal legal mechanisms interact with informal dispute resolution.
 
 ## Environmental, Ecological & Multispecies Anthropology
 
-| Topic | Why Study | Resources |
-| :--- | :--- | :--- |
-| **Political Ecology & Extractivism** | Examines the power asymmetries, global supply chains, corporate resource extraction, and environmental conflicts that shape landscapes and vulnerable communities. | _Liberation Ecologies: Environment, Development, Social Movements_ (Richard Peet & Michael Watts, eds.)<br>- _Friction: An Ethnography of Global Connection_ (Anna Lowenhaupt Tsing)<br>- _Undercurrents of Resistance: Environmental Movements in Global Perspective_ (Joan Martinez-Alier) |
-| **Multispecies Ethnography & More-Than-Human Worlds** | Expands anthropological inquiry beyond human boundaries to study the mutual entanglements of humans with animals, plants, fungi, and microbial communities. | _The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins_ (Anna Lowenhaupt Tsing)<br>- _How Forests Think: Toward an Anthropology Beyond the Human_ (Eduardo Kohn)<br>- _The Multispecies Salon_ (Eben Kirksey, ed.) |
-| **The Ontological Turn & Indigenous Cosmologies** | Challenges Western Cartesian divides between nature and culture by engaging with Amazonian, Siberian, and Indigenous relational ontologies and perspectivism. | _Cannibal Metaphysics: For a Post-Structural Anthropology_ (Eduardo Viveiros de Castro)<br>- _Beyond Nature and Culture_ (Philippe Descola)<br>- _The Master of the Animals: Amazonian Ontologies_ (Carlos Fausto) |
+Explores human-environment interactions, political ecology, more-than-human sociality, and Indigenous cosmologies in the context of the Anthropocene.
+
+Political Ecology & Environmental Conflict: [Environmental Conflict (MIT OpenCourseWare / Christine Walley)](https://ocw.mit.edu/courses/21a-429j-environmental-conflict-fall-2016/) - A graduate-level open curriculum examining environmental justice, conservation disputes, and the political dimensions of resource struggles.
+
+Multispecies Ethnography & Fungal Ecologies: [The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins (Anna Lowenhaupt Tsing)](https://books.google.com/books?isbn=9780691178325) - A foundational multispecies ethnography that follows matsutake commodity chains to theorize cross-species interdependence and survival in degraded environments.
+
+The Anthropology of Biology & Interspecies Life: [The Anthropology of Biology (MIT OpenCourseWare / Stefan Helmreich)](https://ocw.mit.edu/courses/21a-303j-the-anthropology-of-biology-spring-2022/) - An advanced course probing the boundary between nature and culture, focusing on microbiomes, marine organisms, biosecurity, and synthetic genomics.
+
+The Ontological Turn & Amerindian Perspectivism: [Cannibal Metaphysics (Eduardo Viveiros de Castro)](https://books.google.com/books?isbn=9781517905316) - A radical theoretical work developing Amazonian Indigenous multinaturalism to dismantle Western Cartesian divides between nature and culture.
 
 ## Digital Anthropology & Computational Methods
 
-| Topic | Why Study | Resources |
-| :--- | :--- | :--- |
-| **Virtual Worlds, Online Sociality & Platform Culture** | Investigates avatar identity, online kinship, virtual economies, and how platform architectures mediate contemporary human connection and community. | _Coming of Age in Second Life: An Anthropologist Explores the Virtually Human_ (Tom Boellstorff)<br>- _Digital Anthropology_ (Heather A. Horst & Daniel Miller, eds.)<br>- _It's Complicated: The Social Lives of Networked Teens_ (danah boyd) |
-| **Algorithms, Artificial Intelligence & Data Cultures** | Examines how automated sorting algorithms, machine-learning models, and digital surveillance reproduce cultural biases, reconfigure labor, and automate inequality. | _Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass_ (Mary L. Gray & Siddharth Suri)<br>- _Algorithms of Oppression: How Search Engines Reinforce Racism_ (Safiya Umoja Noble)<br>- _Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy_ (Cathy O'Neil) |
-| **Digital Ethnography & Computational Field Methods** | Equips researchers with methodological workflows for digital field recording, social network scraping, ethical digital archiving, and online participant observation. | _Digital Ethnography: Principles and Practice_ (Sarah Pink, Heather Horst, John Postill, Larissa Hjorth, Tania Lewis, & Jo Tacchi)<br>- _Ethnography for the Internet: Embedded, Embodied and Everyday_ (Christine Hine)<br>- _Netnography: The Essential Guide to Qualitative Social Media Research_ (Robert V. Kozinets) |
+Investigates virtual worlds, platform culture, the political economy of algorithms, and methodological adaptations for studying digitally mediated lives.
+
+Online Sociality & Global Platform Cultures: [The Anthropology of Social Media: Why We Post (FutureLearn / University College London)](https://www.futurelearn.com/courses/anthropology-social-media) - A free comparative online course based on 15 months of global ethnographic fieldwork analyzing how societies across nine nations adapt and redefine social media platforms.
+
+Virtual Worlds & Avatar Personhood: [Coming of Age in Second Life: An Anthropologist Explores the Virtually Human (Tom Boellstorff)](https://books.google.com/books?isbn=9780691168340) - A pioneering digital ethnography demonstrating how culture, desire, and identity are authentically constructed and lived within virtual spaces.
+
+Algorithmic Labor & Artificial Intelligence: [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass (Mary L. Gray & Siddharth Suri)](https://books.google.com/books?isbn=9780358120575) - An ethnographic expose of the invisible global contingent workforce performing human-in-the-loop content moderation and data labeling to power automated systems.
+
+Digital Ethnographic Research Design: [Digital Ethnography: Principles and Practice (Sarah Pink et al.)](https://books.google.com/books?isbn=9781473902381) - An authoritative methodological guide setting out key principles for conducting qualitative research across mobile devices, digital environments, and networked communities.
 
 ## Advanced Archaeological Science & Bioarchaeology
 
-| Topic | Why Study | Resources |
-| :--- | :--- | :--- |
-| **Paleogenomics & Ancient DNA (aDNA)** | Utilizes ancient genomic sequencing to reconstruct deep prehistoric migrations, ancestral population mixtures, adaptive genetic traits, and the evolution of infectious diseases. | _Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past_ (David Reich)<br>- _Ancient DNA: Methods and Protocols_ (Beth Shapiro, Michael Hofreiter, et al., eds.)<br>- _The Invisible History of the Human Race_ (Christine Kenneally) |
-| **Stable Isotope Analysis & Paleodietary Reconstruction** | Reconstructs prehistoric nutrition, climate, seasonal migration, weaning strategies, and social status through light and heavy isotope ratios in skeletal tissues. | _Stable Isotope Ecology_ (Brian Fry)<br>- _Bone Chemistry and Human Behavior_ (T. Douglas Price, ed.)<br>- _Archaeological Chemistry_ (Zvi Goffer) |
-| **Spatial Archaeology, Remote Sensing & Landscape GIS** | Employs LiDAR, multi-spectral satellite imagery, predictive spatial modeling, and GIS analysis to detect hidden structures and evaluate long-term landscape modification. | _Archaeological Spatial Analysis: Humano-Centric Approaches_ (Mark Gillings, Piraye Hacıgüzeller, & Gary Lock, eds.)<br>- _Mapping Archaeological Landscapes from Space_ (Douglas C. Comer & Michael J. Harrower, eds.)<br>- _Spatial Analysis in Archaeology_ (Ian Hodder & Clive Orton) |
+Applies biomolecular techniques, skeletal osteology, stable isotope geochemistry, and spatial analytics to reconstruct past human diet, health, mobility, and landscape modification.
+
+Paleogenomics & Ancient DNA (aDNA): [Who We Are and How We Got Here: Ancient DNA and the New Science of the Human Past (David Reich)](https://books.google.com/books?isbn=9781101873465) - A comprehensive synthesis of the archaeogenetic revolution by a pioneering population geneticist, showing how ancient whole-genome sequencing rewrites human prehistory.
+
+Human Osteology & Bioarchaeological Analysis: [Bioarchaeology: Interpreting Behavior from the Human Skeleton (Clark Spencer Larsen)](https://books.google.com/books?isbn=9780521547482) - The authoritative treatise on paleopathology, biomechanics, stress markers, and paleodemography reconstructed directly from archaeological human remains.
+
+Stable Isotope Ecology & Paleodiet: [Stable Isotope Ecology (Brian Fry)](https://books.google.com/books?isbn=9780387305134) - The foundational textbook detailing the principles of carbon, nitrogen, and oxygen isotope fractionation across trophic webs, crucial for reconstructing prehistoric diets and migration.
+
+Spatial Archaeology & Landscape GIS: [Geographical Information Systems in Archaeology (James Conolly & Mark Lake)](https://books.google.com/books?isbn=9780521797443) - A standard Cambridge manual providing practical and theoretical training in archaeological database construction, predictive site modeling, and spatial analysis.
