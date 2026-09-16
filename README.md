@@ -5,11 +5,30 @@ description: Path to a free self-taught education in Anthropology!
 
 ## Introduction
 
-The Anthropology curriculum is a complete education in Anthropology using online materials.
+Anthropology is the holistic study of humanity across deep evolutionary time, geographical space, and cultural diversity. While disciplines such as sociology, economics, or history tend to examine specific institutional domains or temporal periods, anthropology is defined by its comparative breadth and its commitment to understanding human biology, language, social organization, and material culture as deeply interconnected phenomena. 
 
-**[How to contribute](/CONTRIBUTING.html)**
+This curriculum is designed for independent learners, polymaths, and career-changers approaching anthropology for the first time. No prior formal training in the social sciences, evolutionary biology, or linguistics is required. The curriculum deliberately focuses on conceptual foundations, analytical mental models, and empirical findings rather than generic research methodology, thesis writing, or graduate-level field techniques.
 
-## Communities
+### How to Navigate the Sequence
+
+The curriculum follows the discipline's canonical four-field approach, bookended by an orientation and a theoretical synthesis:
+
+- **Start with the Foundations:** Begin with *Introduction to Anthropology* to grasp the four-field structure, the central concept of culture, and the principle of cultural relativism.
+- **Explore the Four Subfields:** *Sociocultural Anthropology*, *Biological Anthropology*, *Archaeological Anthropology*, and *Linguistic Anthropology* form the core empirical body of the discipline. While they are listed in conventional curricular order, you may study these four subjects in whatever sequence aligns best with your interests.
+- **Synthesize with Theory:** Complete your foundational study with *Anthropological Theory*. This subject pulls together the four subfields by tracing the intellectual debates — from nineteenth-century social evolutionism and historical particularism to structuralism and post-structuralism — that shaped how anthropologists interpret evidence.
+
+For each subject, choose the primary textbook or syllabus that matches your preferred learning style (such as open-access online texts versus comprehensive standard print volumes), using the accompanying course guides or lectures to reinforce your understanding.
+
+### Beyond the Core
+
+This curriculum covers only the foundational baseline that every educated anthropologist shares. Once you have mastered these core concepts, you can branch out into specialized domains:
+
+- Explore subfields like medical anthropology, political ecology, and bioarchaeology in [Advanced Topics](advanced_topics.md).
+- Apply ethnographic, linguistic, and archaeological methods to tangible deliverables in [Projects](projects.md).
+- Engage directly with landmark monographs and transformative historical essays in [Readings](extras/readings.md).
+- Deepen your intuition through full-length university lectures and documentary courses in [Courses](extras/courses.md).
+
+### Communities
 
 - Forums:
     - [PaleoPlanet Anthropology Forum](https://www.tapatalk.com/groups/paleoplanet69529/anthropology-t132/)
@@ -27,7 +46,7 @@ The Anthropology curriculum is a complete education in Anthropology using online
     - [Fediverse Group: Anthropology](https://fediverse.observer/g/4gqVqZ2Q2F/anthropology) (Mastodon group)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/anthropology/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
 
-## Anthropology Core Undergraduate Curriculum
+## Curriculum
 
 ### Introduction to Anthropology
 
