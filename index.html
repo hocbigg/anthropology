@@ -1,165 +1,395 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
-<title>Hocbigg - Anthropology</title>
-<link rel="stylesheet" href="/anthropology/style.css">
-<meta name="description" content="Path to a free self-taught education in Anthropology!">
+  <title>Hocbigg - Anthropology</title>
+  <meta name="description" content="Path to a free self-taught education in Anthropology!">
+  <meta name="author" content="hocbigg">
 
-<link rel="canonical" href="https://hocbigg.github.io/anthropology/">
+  <link rel="canonical" href="https://hocbigg.github.io/anthropology/">
+  <meta property="og:title" content="Hocbigg - Anthropology">
+  <meta property="og:description" content="Path to a free self-taught education in Anthropology!">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/anthropology/">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
 
-<meta property="og:title" content="Hocbigg - Anthropology">
-<meta property="og:description" content="Path to a free self-taught education in Anthropology!">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://hocbigg.github.io/anthropology/">
-<meta name="author" content="hocbigg">
-<link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+  <style>
+:root {
+  color-scheme: light dark;
+
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: 60rem;
+  padding: 0 1rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  
+  /* Cú pháp hiện đại thay thế cho word-wrap */
+  overflow-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  transform: translateY(-150%);
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.skip-link:focus {
+  transform: translateY(1rem);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--fg);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
+  font-size: 1rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+a:has(img) {
+  text-decoration: none;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.page-header img {
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+  border-radius: 0;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  margin-inline: 0;
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
 </head>
-
 <body>
 
-<nav>
-<a href="/">Hocbigg</a>
-<a href="/anthropology/">Anthropology</a>
-<a href="/anthropology/projects.html">Projects</a>
-<a href="/anthropology/extras/courses.html">Extra Courses</a>
-<a href="/anthropology/extras/readings.html">Extra Reading</a>
-<a href="https://github.com/hocbigg/anthropology/" target="_blank">View on Github</a>
-</nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<main>
-<article>
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/anthropology/">Anthropology</a></li>
+      <li><a href="/anthropology/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/anthropology/projects.html">Projects</a></li>
+      <li><a href="/anthropology/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/anthropology/extras/courses.html">Extra Courses</a></li>
+      <li><a href="https://github.com/hocbigg/anthropology" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
 
+  <main id="main-content">
+    <article>
 <header class="page-header">
-  <img src="/images/logo.png" alt="">
+  <img src="/images/logo.png" alt="Hocbigg logo">
   <h1>Hocbigg - Anthropology</h1>
+  <p class="last-updated"><small>Last updated on: <time datetime="2026-09-16">2026-09-16</time></small></p>
 </header>
-
-<h1 id="contents">Contents</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Anthropology is the holistic study of humanity across deep evolutionary time, geographical space, and cultural diversity. While disciplines such as sociology, economics, or history tend to examine specific institutional domains or temporal periods, anthropology is defined by its comparative breadth and its commitment to understanding human biology, language, social organization, and material culture as deeply interconnected phenomena. </p>
+<p>This curriculum is designed for independent learners, polymaths, and career-changers approaching anthropology for the first time. No prior formal training in the social sciences, evolutionary biology, or linguistics is required. The curriculum deliberately focuses on conceptual foundations, analytical mental models, and empirical findings rather than generic research methodology, thesis writing, or graduate-level field techniques.</p>
+<h3 id="how-to-navigate-the-sequence">How to Navigate the Sequence</h3>
+<p>The curriculum follows the discipline's canonical four-field approach, bookended by an orientation and a theoretical synthesis:</p>
 <ul>
-<li><a href="#summary">Summary</a></li>
-<li><a href="#communities">Communities</a></li>
-<li><a href="#curriculum">Curriculum</a></li>
-<li><a href="#code-of-conduct">Code of conduct</a></li>
+<li><strong>Start with the Foundations:</strong> Begin with <em>Introduction to Anthropology</em> to grasp the four-field structure, the central concept of culture, and the principle of cultural relativism.</li>
+<li><strong>Explore the Four Subfields:</strong> <em>Sociocultural Anthropology</em>, <em>Biological Anthropology</em>, <em>Archaeological Anthropology</em>, and <em>Linguistic Anthropology</em> form the core empirical body of the discipline. While they are listed in conventional curricular order, you may study these four subjects in whatever sequence aligns best with your interests.</li>
+<li><strong>Synthesize with Theory:</strong> Complete your foundational study with <em>Anthropological Theory</em>. This subject pulls together the four subfields by tracing the intellectual debates — from nineteenth-century social evolutionism and historical particularism to structuralism and post-structuralism — that shaped how anthropologists interpret evidence.</li>
 </ul>
-<h1 id="summary">Summary</h1>
-<p>The Anthropology curriculum is a complete education in Anthropology using online materials.</p>
-<h2 id="organization">Organization</h2>
-<p>This repository is organized into 2 main components:</p>
+<p>For each subject, choose the primary textbook or syllabus that matches your preferred learning style (such as open-access online texts versus comprehensive standard print volumes), using the accompanying course guides or lectures to reinforce your understanding.</p>
+<h3 id="beyond-the-core">Beyond the Core</h3>
+<p>This curriculum covers only the foundational baseline that every educated anthropologist shares. Once you have mastered these core concepts, you can branch out into specialized domains:</p>
 <ul>
-<li><strong>Core Curriculum</strong> (this page): the foundational knowledge of the field;</li>
-<li><strong><a href="projects.html">Projects</a></strong>: support learning through practical application throughout the curriculum.</li>
+<li>Explore subfields like medical anthropology, political ecology, and bioarchaeology in <a href="advanced_topics.html">Advanced Topics</a>.</li>
+<li>Apply ethnographic, linguistic, and archaeological methods to tangible deliverables in <a href="projects.html">Projects</a>.</li>
+<li>Engage directly with landmark monographs and transformative historical essays in <a href="extras/readings.html">Readings</a>.</li>
+<li>Deepen your intuition through full-length university lectures and documentary courses in <a href="extras/courses.html">Courses</a>.</li>
 </ul>
-<p><strong>Process:</strong> Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.</p>
-<ul>
-<li>For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.</li>
-<li>The Core Curriculum provides a shared foundation and is intended to be completed in full.</li>
-</ul>
-<p>Practical work is integrated through the <a href="projects.html">Projects section</a> and may be undertaken alongside coursework.</p>
-<p>Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in <a href="extras/courses.html">extras/courses</a>, <a href="extras/readings.html">extras/readings</a>.</p>
-<p><strong><a href="/CONTRIBUTING.html">How to contribute</a></strong></p>
-<h1 id="communities">Communities</h1>
+<h3 id="communities">Communities</h3>
 <ul>
 <li>Forums:<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.tapatalk.com/groups/paleoplanet69529/anthropology-t132/">PaleoPlanet Anthropology Forum</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://genarchivist.net/forumdisplay.php?fid=108">GenArchivist Anthropology</a></li>
+<li><a href="https://www.tapatalk.com/groups/paleoplanet69529/anthropology-t132/" target="_blank" rel="noopener noreferrer">PaleoPlanet Anthropology Forum</a></li>
+<li><a href="https://genarchivist.net/forumdisplay.php?fid=108" target="_blank" rel="noopener noreferrer">GenArchivist Anthropology</a></li>
 </ul>
 </li>
 <li>Subreddits:<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/Anthropology/">r/Anthropology</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/AskAnthropology/">r/AskAnthropology</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/CulturalAnthro/">r/CulturalAnthro</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/Archaeology/">r/Archaeology</a></li>
+<li><a href="https://www.reddit.com/r/Anthropology/" target="_blank" rel="noopener noreferrer">r/Anthropology</a></li>
+<li><a href="https://www.reddit.com/r/AskAnthropology/" target="_blank" rel="noopener noreferrer">r/AskAnthropology</a></li>
+<li><a href="https://www.reddit.com/r/CulturalAnthro/" target="_blank" rel="noopener noreferrer">r/CulturalAnthro</a></li>
+<li><a href="https://www.reddit.com/r/Archaeology/" target="_blank" rel="noopener noreferrer">r/Archaeology</a></li>
 </ul>
 </li>
 <li>Discord servers:<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GDr2cgX">r/Anthropology</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Gys286zwPp">Alivia's Anthropology Club</a></li>
+<li><a href="https://discord.com/invite/GDr2cgX" target="_blank" rel="noopener noreferrer">r/Anthropology</a></li>
+<li><a href="https://discord.gg/Gys286zwPp" target="_blank" rel="noopener noreferrer">Alivia's Anthropology Club</a></li>
 </ul>
 </li>
 <li>Other:<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://savageminds.org/">Savage Minds</a> (anthropology blog and forum)</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://fediverse.observer/g/4gqVqZ2Q2F/anthropology">Fediverse Group: Anthropology</a> (Mastodon group)</li>
+<li><a href="https://savageminds.org/" target="_blank" rel="noopener noreferrer">Savage Minds</a> (anthropology blog and forum)</li>
+<li><a href="https://fediverse.observer/g/4gqVqZ2Q2F/anthropology" target="_blank" rel="noopener noreferrer">Fediverse Group: Anthropology</a> (Mastodon group)</li>
 </ul>
 </li>
-<li>You can also interact through <a target="_blank" rel="noopener noreferrer" href="https://github.com/hocbigg/anthropology/issues">GitHub issues</a>. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more <a href="/CONTRIBUTING.html">here</a>.</li>
-<li>
-<p>Join our Discord server (for discussions around this and other curricula): </p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://discord.gg/KHqAv4Nvm5"><img alt="discord link" src="/assets/discord.png" /></a></p>
-</li>
+<li>You can also interact through <a href="https://github.com/hocbigg/anthropology/issues" target="_blank" rel="noopener noreferrer">GitHub issues</a>. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more <a href="/CONTRIBUTING.html">here</a>.</li>
 </ul>
-<h1 id="curriculum">Curriculum</h1>
-<p>This curriculum outlines a pathway for studying anthropology's core subjects. Proceed through the eight subjects in the suggested order. For each, use the textbook, the online course, or—for the most comprehensive understanding—both.</p>
-<table>
-<thead>
-<tr>
-<th style="text-align: left;">Subject</th>
-<th style="text-align: left;">Rationale &amp; Learning Goals</th>
-<th style="text-align: left;">Primary Textbook</th>
-<th style="text-align: left;">Supplementary Video Courses</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;"><strong>1. Introduction to Anthropology</strong></td>
-<td style="text-align: left;">Establishes the discipline's scope, its four-field approach, and its unique perspective on humanity. Distinguishes anthropology from related fields like sociology and history.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://perspectives.americananthro.org/"><em>Perspectives: An Open Invitation to Cultural Anthropology</em></a> (See "Part I: What is Anthropology?")</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2022/">MIT OCW: Introduction to Anthropology</a></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>2. Anthropological Theory</strong></td>
-<td style="text-align: left;">Trains the ability to interpret human societies through explicit conceptual frameworks (e.g., structuralism, practice theory) rather than commonsense assumptions. Covers key thinkers and paradigms.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://mahabubjnu.files.wordpress.com/2013/09/anthropological_theory__an_introductory_history__fourth_edition_.pdf"><em>Anthropological Theory: An Introductory History</em></a></td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/">MIT OCW: Anthropological Theory</a></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>3. Ethnographic Methods</strong></td>
-<td style="text-align: left;">Explains how anthropological knowledge is produced through participant observation, fieldwork, and ethical engagement. Focuses on the practice and challenges of immersive research.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://perspectives.americananthro.org/"><em>Perspectives: An Open Invitation to Cultural Anthropology</em></a> (See "Part II: Methods")</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/sts-360-ethnography-spring-2003/">MIT OCW: Ethnography</a></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>4. Social &amp; Cultural Anthropology</strong></td>
-<td style="text-align: left;">Provides core tools for analyzing social organization, kinship, ritual, economics, and meaning-making across diverse societies. The heart of sociocultural analysis.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://perspectives.americananthro.org/"><em>Perspectives: An Open Invitation to Cultural Anthropology</em></a> (Parts III–X)</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://www.futurelearn.com/courses/cultures-societies-introducing-anthropology">FutureLearn: Introducing Anthropology: Cultures and Societies</a></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>5. Linguistic Anthropology</strong></td>
-<td style="text-align: left;">Examines language as a social practice and cultural resource. Explores how language shapes identity, enacts power, and constitutes social reality.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/languagecultures0000salz_a9b5"><em>Language, Culture, and Society</em></a></td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/learn/human-language">Coursera: Miracles of Human Language</a> <em>(Note: General linguistics intro; seek sociolinguistic content to supplement)</em></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>6. Biological Anthropology</strong></td>
-<td style="text-align: left;">Situates human cultural life within our evolutionary history, primate heritage, and biological variation. Emphasizes the biocultural synthesis.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/essentialsofphys0000lars"><em>Essentials of Biological Anthropology</em></a></td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=PLDtERbGOCsM9TL4FyQLhNg2eA8PQtYjSq">Biological Anthropology - Alivia Brown</a></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>7. Archaeological Anthropology</strong></td>
-<td style="text-align: left;">Introduces methods for studying material culture to understand past human societies, long-term change, and processes like domestication and urbanization.</td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Archaeology-Theories-Practice-Colin-Renfrew/dp/0500849986"><em>Archaeology: Theories, Methods, and Practice</em></a></td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://www.futurelearn.com/courses/archaeology">FutureLearn: Archaeology: from Dig to Lab and Beyond</a></td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>8. Comparative Anthropology</strong></td>
-<td style="text-align: left;">Trains comparative reasoning across cultures and time periods. Focuses on drawing connections and contrasts without collapsing difference or falling into generalization.</td>
-<td style="text-align: left;"><a href="coursepages/comparative-anthropology.html">Comparative Anthropology</a></td>
-<td style="text-align: left;"><a target="_blank" rel="noopener noreferrer" href="https://perspectives.americananthro.org/">Example: The "Comparing Cultures" section in <em>Perspectives</em></a></td>
-</tr>
-</tbody>
-</table>
-<h2 id="note">Note</h2>
-<p>This curriculum does not cover applied anthropology, development studies, medical anthropology, or policy-oriented research, as these areas presuppose a solid theoretical and methodological foundation. Advanced debates in poststructuralist theory, quantitative modeling, and specialized archaeological science require higher levels of academic training and technical expertise than intended here. The program also does not aim to provide regional specialization; focused study of particular societies should follow, not precede, conceptual grounding.</p>
-<h1 id="code-of-conduct">Code of conduct</h1>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/hocbigg/code-of-conduct">Hocbigg's code of conduct</a>.</p>
-</article>
-</main>
+<h2 id="curriculum">Curriculum</h2>
+<h3 id="introduction-to-anthropology">Introduction to Anthropology</h3>
+<p>Surveys the holistic four-field discipline of anthropology, establishing how cultural, biological, archaeological, and linguistic perspectives combine to illuminate the human condition.</p>
+<p><a href="https://openstax.org/details/books/introduction-anthropology" target="_blank" rel="noopener noreferrer">Introduction to Anthropology (OpenStax / Jennifer Hasty et al.)</a> - A comprehensive, peer-reviewed open textbook that introduces all four traditional subfields along with foundational concepts of culture, evolution, and human diversity.</p>
+<p><a href="https://books.google.com/books?isbn=9781260259292" target="_blank" rel="noopener noreferrer">Anthropology: Appreciating Human Diversity (Conrad Phillip Kottak)</a> - An established print alternative to the OpenStax volume, offering an expansive, case-rich overview of the four subfields.</p>
+<p><a href="https://ocw.mit.edu/courses/21a-00-introduction-to-anthropology-spring-2022/" target="_blank" rel="noopener noreferrer">Introduction to Anthropology (MIT OpenCourseWare / Graham Jones)</a> - A complementary university syllabus and study schedule with curated readings and assignment prompts exploring contemporary anthropological questions.</p>
+<h3 id="sociocultural-anthropology">Sociocultural Anthropology</h3>
+<p>Investigates cultural variation, social institutions, kinship, political and economic systems, religion, and the effects of globalization across human societies.</p>
+<p><a href="https://perspectives.americananthro.org/" target="_blank" rel="noopener noreferrer">Perspectives: An Open Invitation to Cultural Anthropology (American Anthropological Association / Nina Brown et al., eds.)</a> - A free, modular introductory textbook written by practicing anthropologists that covers all major topics in cultural anthropology.</p>
+<p><a href="https://books.google.com/books?isbn=9780745348193" target="_blank" rel="noopener noreferrer">Small Places, Large Issues: An Introduction to Social and Cultural Anthropology (Thomas Hylland Eriksen)</a> - An alternative, narrative-driven introductory text reflecting the British and European social anthropology traditions through engaging real-world ethnography.</p>
+<p><a href="https://www.futurelearn.com/courses/cultures-societies-introducing-anthropology" target="_blank" rel="noopener noreferrer">Anthropology: Understanding Societies and Cultures (FutureLearn / University of Newcastle)</a> - A complementary three-week online course that provides a guided video and discussion-based introduction to culture, kinship, and ethnographic fieldwork.</p>
+<h3 id="biological-anthropology">Biological Anthropology</h3>
+<p>Explores human biological evolution, evolutionary genetics, non-human primate behavior, the hominin fossil record, and biocultural adaptations in living human populations.</p>
+<p><a href="https://explorations.americananthro.org/" target="_blank" rel="noopener noreferrer">Explorations: An Open Invitation to Biological Anthropology (American Anthropological Association / Beth Shook et al., eds.)</a> - The definitive peer-reviewed open-access textbook for evolutionary theory, paleoanthropology, primate biology, and human variation.</p>
+<p><a href="https://books.google.com/books?isbn=9780393680676" target="_blank" rel="noopener noreferrer">Our Origins: Discovering Biological Anthropology (Clark Spencer Larsen)</a> - A widely adopted university textbook alternative to Explorations, containing detailed anatomical diagrams, fossil reconstructions, and bioarchaeological case studies.</p>
+<p>Introduction to Human Evolution (Adam Van Arsdale / YouTube) - search "Introduction to Human Evolution Adam Van Arsdale" on YouTube - A complementary open video lecture series by a paleoanthropologist covering evolutionary genetics, fossil discoveries, and hominin adaptations.</p>
+<h3 id="archaeological-anthropology">Archaeological Anthropology</h3>
+<p>Examines how material culture, site stratigraphy, dating technologies, and spatial analysis are used to reconstruct ancient lifeways, the agricultural transition, and the rise of complex societies.</p>
+<p><a href="https://books.google.com/books?isbn=9780500295373" target="_blank" rel="noopener noreferrer">Archaeology: Theories, Methods, and Practice (Colin Renfrew &amp; Paul Bahn)</a> - The canonical, comprehensive textbook detailing archaeological theory, scientific field techniques, dating methods, and global excavations.</p>
+<p><a href="https://open.umn.edu/opentextbooks/textbooks/822" target="_blank" rel="noopener noreferrer">Digging into Archaeology: A Brief OER Introduction to Archaeology with Activities (Amanda Wolcott Paskey &amp; AnnMarie Beasley Cisneros)</a> - A concise, free open-access alternative covering core archaeological concepts and featuring practical exercises for independent study.</p>
+<p><a href="https://www.futurelearn.com/courses/archaeology" target="_blank" rel="noopener noreferrer">Archaeology: from Dig to Lab and Beyond (FutureLearn / University of Reading)</a> - A complementary interactive course that illustrates the step-by-step reality of an actual archaeological excavation, artifact processing, and post-dig analysis.</p>
+<h3 id="linguistic-anthropology">Linguistic Anthropology</h3>
+<p>Examines language as a primary vehicle of cultural meaning, investigating semiotics, linguistic relativity, performativity, language socialization, and the links between speech, power, and identity.</p>
+<p><a href="https://books.google.com/books?isbn=9781119608158" target="_blank" rel="noopener noreferrer">Living Language: An Introduction to Linguistic Anthropology (Laura M. Ahearn)</a> - A focused introductory textbook that treats language as social action and examines agency, indexicality, and speech communities.</p>
+<p><a href="https://books.google.com/books?isbn=9780813350608" target="_blank" rel="noopener noreferrer">Language, Culture, and Society: An Introduction to Linguistic Anthropology (Zdenek Salzmann, James Stanlaw, &amp; Nobuko Adachi)</a> - An alternative introductory textbook covering both the formal mechanics of language and the sociolinguistic dimensions of identity, gender, and power.</p>
+<p><a href="https://www.coursera.org/learn/human-language" target="_blank" rel="noopener noreferrer">Miracles of Human Language: An Introduction to Linguistics (Coursera / Universiteit Leiden)</a> - A complementary video course providing a working foundation in descriptive linguistics, such as phonetics, syntax, and language acquisition, to support your study of linguistic anthropology.</p>
+<h3 id="anthropological-theory">Anthropological Theory</h3>
+<p>Traces the intellectual history and paradigms of anthropology from 19th-century unilineal evolutionism and historical particularism to functionalism, structuralism, post-structuralism, and contemporary critique.</p>
+<p><a href="https://books.google.com/books?isbn=9781538183915" target="_blank" rel="noopener noreferrer">Anthropological Theory: An Introductory History (R. Jon McGee &amp; Richard L. Warms)</a> - The canonical primary-source reader anthologizing foundational theoretical essays from classical theorists through modern post-structuralist and feminist thinkers, supported by thorough editorial annotations.</p>
+<p><a href="https://ocw.mit.edu/courses/21a-110-anthropological-theory-spring-2003/" target="_blank" rel="noopener noreferrer">Anthropological Theory (MIT OpenCourseWare / Susan S. Silbey)</a> - A complementary university syllabus and study guide that provides analytical reading questions pairing classic theoretical statements with ethnographic case analyses.</p>
+    </article>
+  </main>
 
 </body>
 </html>
