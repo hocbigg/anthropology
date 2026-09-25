@@ -2,13 +2,11 @@
 
 This curriculum provides advanced specialization pathways for self-directed learners who have completed the core undergraduate sequence. Rather than attempting to complete all tracks, learners should select one or two pathways aligned with their research goals or professional interests.
 
-## Specialization Tracks
-
-* [Medical Anthropology & Global Health](#medical-anthropology--global-health): Investigates the political economy of disease, structural violence, phenomenological experiences of suffering, and biomedicine as a cultural system.
-* [Political, Economic & Legal Anthropology](#political-economic--legal-anthropology): Analyzes statecraft, bureaucratic legibility, financialization, and legal pluralism across everyday social contexts.
-* [Environmental, Ecological & Multispecies Anthropology](#environmental-ecological--multispecies-anthropology): Explores human-environment interactions, political ecology, more-than-human sociality, and Indigenous cosmologies.
-* [Digital Anthropology & Computational Methods](#digital-anthropology--computational-methods): Examines online sociality, virtual worlds, platform labor, and digital ethnographic methodologies.
-* [Advanced Archaeological Science & Bioarchaeology](#advanced-archaeological-science--bioarchaeology): Focuses on biomolecular archaeology, paleogenomics, stable isotope ecology, and spatial landscape modeling.
+* [Medical Anthropology & Global Health](#medical-anthropology-global-health): Investigates the political economy of disease, structural violence, phenomenological experiences of suffering, and biomedicine as a cultural system.
+* [Political, Economic & Legal Anthropology](#political-economic-legal-anthropology): Analyzes statecraft, bureaucratic legibility, financialization, and legal pluralism across everyday social contexts.
+* [Environmental, Ecological & Multispecies Anthropology](#environmental-ecological-multispecies-anthropology): Explores human-environment interactions, political ecology, more-than-human sociality, and Indigenous cosmologies.
+* [Digital Anthropology & Computational Methods](#digital-anthropology-computational-methods): Examines online sociality, virtual worlds, platform labor, and digital ethnographic methodologies.
+* [Advanced Archaeological Science & Bioarchaeology](#advanced-archaeological-science-bioarchaeology): Focuses on biomolecular archaeology, paleogenomics, stable isotope ecology, and spatial landscape modeling.
 
 ## Medical Anthropology & Global Health
 
